@@ -1,0 +1,11 @@
+Total number of employees' are (1) -> 
+
+Employee : 1
+employee id -> 1
+employee number -> E0111
+employee name -> Shehab Khan
+employee title -> manager
+employee department -> it
+employee phone number -> 0651111111
+employee email -> a.aa_@logicaly.net
+
